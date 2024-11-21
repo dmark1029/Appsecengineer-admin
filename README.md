@@ -1,11 +1,3 @@
-wqeqwe
-qw
-eq
-we
-qw
-e
-qwe
-
 # AppSecEngineer Admin Portal
 
 ## Install the dependencies
